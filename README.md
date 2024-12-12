@@ -73,7 +73,7 @@ Cet outil est une **aide à la décision** et ne remplace en aucun cas :
 git clone https://github.com/Misterbra/EVRC---Evaluation-du-Risque-Chimique.git
 
 # Installer les dépendances
-cd EVRC--Evaluation-du-Risque-Chimique
+cd EVRC---Evaluation-du-Risque-Chimique
 npm install
 
 # Lancer en développement
