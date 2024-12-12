@@ -139,7 +139,7 @@ Ce projet est sous licence MIT.
 
 Pour toute question ou suggestion :
 * Email : nabil.brag@cea.fr
-* GitHub Issues : [Créer une issue](https://github.com/Misterbra/EVRC--Evaluation-du-Risque-Chimique/issues)
+* GitHub Issues : [Créer une issue](https://github.com/Misterbra/EVRC---Evaluation-du-Risque-Chimique/issues)
 
 ---
 <div align="center">

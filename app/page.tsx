@@ -134,9 +134,9 @@ export default function Page() {
             Évaluation du Risque Chimique
           </h1>
           <p className="text-xl text-gray-700 max-w-3xl mx-auto leading-relaxed">
-            Assistant intelligent d'évaluation des risques chimiques selon la méthode INRS
+            Assistant intelligent d&apos;évaluation des risques chimiques selon la méthode INRS
           </p>
-          <p className="text-sm text-amber-600 max-w-3xl mx-auto leading-relaxed mt-2">🧪 Version beta - On fait de notre mieux, blâmez l'animateur sécurité s'il y a des erreus ! 🔬</p>
+          <p className="text-sm text-amber-600 max-w-3xl mx-auto leading-relaxed mt-2">🧪 Version beta - On fait de notre mieux, blâmez l&apos;animateur sécurité s&apos;il y a des erreus ! 🔬</p>
 
           {/* Stats rapides avec animation au hover */}
           <div className="grid grid-cols-1 md:grid-cols-2 gap-6 max-w-2xl mx-auto mt-8">
@@ -189,7 +189,7 @@ export default function Page() {
               <Alert className="bg-blue-50 border-blue-200">
                 <AlertCircle className="h-4 w-4 text-blue-600" />
                 <AlertDescription className="text-blue-700">
-                  Un produit est sélectionné. Cliquez sur "Ajouter à l'évaluation" pour l'inclure dans votre analyse.
+                  Un produit est sélectionné. Cliquez sur &quot;Ajouter à l&apos;évaluation&quot; pour l&apos;inclure dans votre analyse.
                 </AlertDescription>
               </Alert>
             )}
@@ -209,7 +209,7 @@ export default function Page() {
                   <Separator className="my-4" />
                   <div className="absolute top-1/2 left-1/2 transform -translate-x-1/2 -translate-y-1/2 bg-white px-4">
                     <h3 className="text-gray-500 text-sm font-medium">
-                      Résultats de l'évaluation
+                      Résultats de l&apos;évaluation
                     </h3>
                   </div>
                 </div>
@@ -230,7 +230,7 @@ export default function Page() {
                 </div>
                 <p className="text-gray-600 font-medium">Aucune évaluation enregistrée</p>
                 <p className="text-sm text-gray-500">
-                  Sélectionnez un produit et ses conditions d'utilisation pour commencer l'évaluation
+                  Sélectionnez un produit et ses conditions d&apos;utilisation pour commencer l&apos;évaluation
                 </p>
               </div>
             )}

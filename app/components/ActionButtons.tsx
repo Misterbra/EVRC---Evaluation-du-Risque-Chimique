@@ -26,7 +26,7 @@ const ActionButtons = ({ onAdd, onExport, disabled, hasResults }: ActionButtonsP
                 )}
               >
                 <Plus className="w-4 h-4" />
-                <span>Ajouter à l'évaluation</span>
+                <span>Ajouter à l&apos;évaluation</span>
               </Button>
             </span>
           </TooltipTrigger>

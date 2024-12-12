@@ -1,6 +1,5 @@
 import React from 'react';
 import { type FormData, type ChemicalProduct } from '../types';
-import { Select, SelectContent, SelectItem, SelectTrigger, SelectValue } from '../../components/ui/select';
 import { Popover, PopoverContent, PopoverTrigger } from '../../components/ui/popover';
 import { Badge } from '../../components/ui/badge';
 import { Button } from '../../components/ui/button';
@@ -8,7 +7,6 @@ import { InfoIcon, ChevronsUpDown } from 'lucide-react';
 import { Tooltip, TooltipContent, TooltipProvider, TooltipTrigger } from '../../components/ui/tooltip';
 import { Card } from '../../components/ui/card';
 import { Input } from '../../components/ui/input';
-import { cn } from '../../lib/utils';
 
 interface EvrcFormProps {
   formData: FormData;
