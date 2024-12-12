@@ -70,7 +70,7 @@ Cet outil est une **aide à la décision** et ne remplace en aucun cas :
 
 ```bash
 # Cloner le repository
-git clone https://github.com/Misterbra/EVRC--Evaluation-du-Risque-Chimique.git
+git clone https://github.com/Misterbra/EVRC---Evaluation-du-Risque-Chimique.git
 
 # Installer les dépendances
 cd EVRC--Evaluation-du-Risque-Chimique
