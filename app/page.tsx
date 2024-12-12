@@ -268,7 +268,7 @@ export default function Page() {
                     <Globe className="h-4 w-4" />
                     INRS - Fiches toxicologiques
                   </Link>
-                  <Link href="https://github.com/votre-repo" target="_blank" rel="noopener noreferrer" className="text-sm text-gray-600 hover:text-blue-600 flex items-center gap-2 hover:translate-x-1 transition-transform">
+                  <Link href="https://github.com/" target="_blank" rel="noopener noreferrer" className="text-sm text-gray-600 hover:text-blue-600 flex items-center gap-2 hover:translate-x-1 transition-transform">
                     <Github className="h-4 w-4" />
                     Documentation
                   </Link>
