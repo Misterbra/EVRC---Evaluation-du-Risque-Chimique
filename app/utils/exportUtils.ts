@@ -84,7 +84,7 @@ export const formatDataForExport = (results: EvaluationResult[]) => {
     const product = result.product;
     const protectionDetails = result.protectionIndex.details;
     const dangerIndex = result.dangerIndex;
-    const finalProtectionIndex = (result.protectionIndex.total + dangerIndex);
+    const finalProtectionIndex = (result.protectionIndex.total);
 
     return {
       'N° CAS': product.cas,
