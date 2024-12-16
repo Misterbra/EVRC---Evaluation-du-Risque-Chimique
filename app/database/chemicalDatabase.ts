@@ -826,6 +826,15 @@ export class ChemicalDatabaseService {
         physicalState: 'Solide'
       },
       {
+        cas: '7664-41-7',
+        name: 'Ammoniac',
+        vlep: 10,
+        mentions: ['H221', 'H280', 'H314', 'H331', 'H400'],
+        vaporPressure: 8573,
+        category: 'Bases',
+        physicalState: 'Gaz'
+      },
+      {
         cas: '7782-50-5',
         name: 'Chlore',
         vlep: 0.5,
