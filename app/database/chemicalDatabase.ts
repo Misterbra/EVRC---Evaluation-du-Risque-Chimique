@@ -5549,6 +5549,78 @@ export class ChemicalDatabaseService {
         vaporPressure: 0,
         category: 'Catalyseurs',
         physicalState: 'Solide'
+      },
+      {
+        cas: '92-52-4',
+        name: 'Diphényle',
+        vlep: 1,
+        mentions: ['H315', 'H319', 'H335', 'H400', 'H410'],
+        vaporPressure: 0.012,
+        category: 'Hydrocarbures aromatiques',
+        physicalState: 'Solide'
+      },
+      {
+        cas: '101-84-8',
+        name: 'Oxyde de diphényle',
+        vlep: 1,
+        mentions: ['H319', 'H411'],
+        vaporPressure: 0.02,
+        category: 'Éthers aromatiques',
+        physicalState: 'Solide'
+      },
+      {
+        cas: '91-93-0',
+        name: 'Diphényle disulfure',
+        vlep: 0.5,
+        mentions: ['H315', 'H317', 'H319', 'H335'],
+        vaporPressure: 0.001,
+        category: 'Composés soufrés',
+        physicalState: 'Solide'
+      },
+      {
+        cas: '947-42-2',
+        name: 'Diphényle phosphate',
+        vlep: 1,
+        mentions: ['H315', 'H319', 'H335'],
+        vaporPressure: 0,
+        category: 'Composés phosphorés',
+        physicalState: 'Solide'
+      },
+      {
+        cas: '2524-03-0',
+        name: 'Diphényle chlorophosphate',
+        vlep: 0.1,
+        mentions: ['H302', 'H314', 'H317', 'H318', 'H334'],
+        vaporPressure: 0.001,
+        category: 'Composés phosphorés',
+        physicalState: 'Liquide'
+      },
+      {
+        cas: '865-47-4',
+        name: 'tert-Butylate de potassium',
+        vlep: 0.1,
+        mentions: ['H225', 'H250', 'H260', 'H314'],
+        vaporPressure: 0,
+        category: 'Bases fortes',
+        physicalState: 'Solide'
+      },
+      {
+        cas: '1907-33-1',
+        name: 'tert-Butylate de sodium',
+        vlep: 0.1,
+        mentions: ['H225', 'H250', 'H260', 'H314'],
+        vaporPressure: 0,
+        category: 'Bases fortes',
+        physicalState: 'Solide'
+      },
+      {
+        cas: '1445-27-4',
+        name: 'tert-Butylate de lithium',
+        vlep: 0.1,
+        mentions: ['H225', 'H250', 'H260', 'H314'],
+        vaporPressure: 0,
+        category: 'Bases fortes',
+        physicalState: 'Solide'
       }
     ] as ChemicalProduct[];
 
