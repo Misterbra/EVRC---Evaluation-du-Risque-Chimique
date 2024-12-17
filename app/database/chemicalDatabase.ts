@@ -827,7 +827,7 @@ export class ChemicalDatabaseService {
       },
       {
         cas: '7664-41-7',
-        name: 'Ammoniac',
+        name: 'Ammoniaque',
         vlep: 10,
         mentions: ['H221', 'H280', 'H314', 'H331', 'H400'],
         vaporPressure: 8573,
@@ -851,15 +851,6 @@ export class ChemicalDatabaseService {
         vaporPressure: 0.03,
         category: 'Acides',
         physicalState: 'Liquide'
-      },
-      {
-        cas: '7664-41-7',
-        name: 'Ammoniac',
-        vlep: 20,
-        mentions: ['H221', 'H314', 'H331', 'H400'],
-        vaporPressure: 8600,
-        category: 'Bases',
-        physicalState: 'Gaz'
       },
       {
         cas: '7681-52-9',
