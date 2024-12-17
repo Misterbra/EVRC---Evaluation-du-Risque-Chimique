@@ -134,7 +134,7 @@ export default function Page() {
             Évaluation du Risque Chimique
           </h1>
           <p className="text-xl text-gray-700 max-w-3xl mx-auto leading-relaxed">
-            Assistant intelligent d&apos;évaluation des risques chimiques selon la méthode DT80 de l'Union des Industries Chimiques.
+            Assistant intelligent d&apos;évaluation des risques chimiques selon la méthode DT80 de l&apos;Union des Industries Chimiques.
           </p>
           <p className="text-sm text-amber-600 max-w-3xl mx-auto leading-relaxed mt-2">🧪 Version beta - On fait de notre mieux, blâmez l&apos;animateur sécurité s&apos;il y a des erreus ! 🔬</p>
 
