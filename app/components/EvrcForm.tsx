@@ -231,7 +231,7 @@ const EvrcForm = ({
         </div>
 
         <div>
-          <h3 className="text-lg font-semibold text-gray-800 mb-4">Conditions d'utilisation</h3>
+          <h3 className="text-lg font-semibold text-gray-800 mb-4">Conditions d&apos;utilisation</h3>
           <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-4 gap-4">
             <div>
               <h4 className="text-base font-semibold text-gray-700 mb-2">Confinement</h4>
