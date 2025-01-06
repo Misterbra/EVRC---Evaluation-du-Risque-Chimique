@@ -1371,7 +1371,7 @@ export class ChemicalDatabaseService {
       },
       {
         cas: '75-65-0',
-        name: 'tert-Butanol',
+        name: 'tert-Butanol (Alcool)',
         vlep: 100,
         mentions: ['H225', 'H319', 'H332', 'H335'],
         vaporPressure: 41,
@@ -5611,6 +5611,52 @@ export class ChemicalDatabaseService {
         mentions: ['H225', 'H250', 'H260', 'H314'],
         vaporPressure: 0,
         category: 'Bases fortes',
+        physicalState: 'Solide'
+      },
+      {
+        cas: '7778-18-9',
+        name: 'Drierite',
+        vlep: 5,
+        mentions: ['H317', 'H334', 'H341', 'H350i', 'H360', 'H319', 'H411'],
+        vaporPressure: 0,
+        category: 'Desséchants',
+        physicalState: 'Solide',
+        cmr: true
+      },
+      {
+        cas: '128-08-5',
+        name: 'N-Bromosuccinimide',
+        vlep: 0.1,
+        mentions: ['H314', 'H334', 'H317'],
+        vaporPressure: 0,
+        category: 'Agents de bromation',
+        physicalState: 'Solide'
+      },
+      {
+        cas: '584-08-7',
+        name: 'Carbonate de potassium',
+        vlep: 10,
+        mentions: ['H315', 'H319', 'H335'],
+        vaporPressure: 0,
+        category: 'Bases',
+        physicalState: 'Solide'
+      },
+      {
+        cas: '112926-00-8',
+        name: 'Silica gel',
+        vlep: 4,
+        mentions: ['H319', 'H335'],
+        vaporPressure: 0,
+        category: 'Desséchants',
+        physicalState: 'Solide'
+      },
+      {
+        cas: '70955-01-0',
+        name: 'Tamis moléculaire 4Å',
+        vlep: 10,
+        mentions: ['H319', 'H335'],
+        vaporPressure: 0,
+        category: 'Desséchants',
         physicalState: 'Solide'
       }
     ] as ChemicalProduct[];
